@@ -1,0 +1,18 @@
+/*dody style*/
+body {
+  color: #484848;
+  font: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/*container style*/
+.container {
+  margin: 30px auto;
+  max-width: 1000px;
+}
+
+/*strong style*/
+strong {
+  font-wieght: bold;
+}
+
+
