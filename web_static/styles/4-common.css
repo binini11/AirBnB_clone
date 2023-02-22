@@ -1,18 +1,30 @@
-/*dody style*/
+html, body {
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
+}
+
+html {
+  position: relative;
+}
+
 body {
-  color: #484848;
-  font: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-/*container style*/
 .container {
-  margin: 30px auto;
-  max-width: 1000px;
+    max-width: 1000px;
+    margin: 30px auto;
 }
 
-/*strong style*/
-strong {
-  font-wieght: bold;
+h4 {
+    font-weight: 400;
+    font-size: 14px;
 }
 
-
+ul {
+  list-style: none;
+  padding: 10px;
+}

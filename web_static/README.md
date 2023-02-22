@@ -1,0 +1,1 @@
+readme about static web
